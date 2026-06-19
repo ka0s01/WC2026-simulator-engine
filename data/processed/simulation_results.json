@@ -1,0 +1,1115 @@
+{
+  "simulated_at": "2026-06-18T11:45:19.947344+00:00",
+  "n_simulations": 10000,
+  "teams": [
+    {
+      "name": "Spain",
+      "slug": "spain",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddea\ud83c\uddf8",
+      "group": "H",
+      "qualify_probability": 0.9961,
+      "probabilities": {
+        "win": 0.1775,
+        "final": 0.2737,
+        "semi_final": 0.4838,
+        "quarter_final": 0.6171,
+        "round_of_16": 0.8414,
+        "round_of_32": 0.9961,
+        "group_exit": 0.0039
+      },
+      "avg_goals_scored": 7.17,
+      "avg_goals_conceded": 1.32
+    },
+    {
+      "name": "France",
+      "slug": "france",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddeb\ud83c\uddf7",
+      "group": "I",
+      "qualify_probability": 0.985,
+      "probabilities": {
+        "win": 0.1712,
+        "final": 0.2598,
+        "semi_final": 0.3903,
+        "quarter_final": 0.5026,
+        "round_of_16": 0.8488,
+        "round_of_32": 0.985,
+        "group_exit": 0.015
+      },
+      "avg_goals_scored": 6.56,
+      "avg_goals_conceded": 1.87
+    },
+    {
+      "name": "Germany",
+      "slug": "germany",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udde9\ud83c\uddea",
+      "group": "E",
+      "qualify_probability": 0.9915,
+      "probabilities": {
+        "win": 0.1537,
+        "final": 0.256,
+        "semi_final": 0.4054,
+        "quarter_final": 0.519,
+        "round_of_16": 0.8566,
+        "round_of_32": 0.9915,
+        "group_exit": 0.0085
+      },
+      "avg_goals_scored": 7.02,
+      "avg_goals_conceded": 1.55
+    },
+    {
+      "name": "Brazil",
+      "slug": "brazil",
+      "confederation": "CONMEBOL",
+      "flag": "\ud83c\udde7\ud83c\uddf7",
+      "group": "C",
+      "qualify_probability": 0.9901,
+      "probabilities": {
+        "win": 0.116,
+        "final": 0.2477,
+        "semi_final": 0.3855,
+        "quarter_final": 0.576,
+        "round_of_16": 0.7887,
+        "round_of_32": 0.9901,
+        "group_exit": 0.0099
+      },
+      "avg_goals_scored": 6.89,
+      "avg_goals_conceded": 1.67
+    },
+    {
+      "name": "England",
+      "slug": "england",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+      "group": "L",
+      "qualify_probability": 0.9793,
+      "probabilities": {
+        "win": 0.088,
+        "final": 0.1844,
+        "semi_final": 0.3134,
+        "quarter_final": 0.5451,
+        "round_of_16": 0.7633,
+        "round_of_32": 0.9793,
+        "group_exit": 0.0207
+      },
+      "avg_goals_scored": 6.22,
+      "avg_goals_conceded": 1.87
+    },
+    {
+      "name": "Portugal",
+      "slug": "portugal",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddf5\ud83c\uddf9",
+      "group": "K",
+      "qualify_probability": 0.9821,
+      "probabilities": {
+        "win": 0.0864,
+        "final": 0.1844,
+        "semi_final": 0.355,
+        "quarter_final": 0.5779,
+        "round_of_16": 0.7847,
+        "round_of_32": 0.9821,
+        "group_exit": 0.0179
+      },
+      "avg_goals_scored": 6.59,
+      "avg_goals_conceded": 1.93
+    },
+    {
+      "name": "Argentina",
+      "slug": "argentina",
+      "confederation": "CONMEBOL",
+      "flag": "\ud83c\udde6\ud83c\uddf7",
+      "group": "J",
+      "qualify_probability": 0.9762,
+      "probabilities": {
+        "win": 0.0704,
+        "final": 0.1539,
+        "semi_final": 0.3312,
+        "quarter_final": 0.4932,
+        "round_of_16": 0.6499,
+        "round_of_32": 0.9762,
+        "group_exit": 0.0238
+      },
+      "avg_goals_scored": 6.14,
+      "avg_goals_conceded": 1.91
+    },
+    {
+      "name": "Netherlands",
+      "slug": "netherlands",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
+      "group": "F",
+      "qualify_probability": 0.9839,
+      "probabilities": {
+        "win": 0.038,
+        "final": 0.096,
+        "semi_final": 0.1838,
+        "quarter_final": 0.4883,
+        "round_of_16": 0.6786,
+        "round_of_32": 0.9839,
+        "group_exit": 0.0161
+      },
+      "avg_goals_scored": 6.52,
+      "avg_goals_conceded": 1.81
+    },
+    {
+      "name": "Belgium",
+      "slug": "belgium",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udde7\ud83c\uddea",
+      "group": "G",
+      "qualify_probability": 0.9774,
+      "probabilities": {
+        "win": 0.0315,
+        "final": 0.0756,
+        "semi_final": 0.2027,
+        "quarter_final": 0.4738,
+        "round_of_16": 0.7813,
+        "round_of_32": 0.9774,
+        "group_exit": 0.0226
+      },
+      "avg_goals_scored": 6.1,
+      "avg_goals_conceded": 1.99
+    },
+    {
+      "name": "Croatia",
+      "slug": "croatia",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udded\ud83c\uddf7",
+      "group": "L",
+      "qualify_probability": 0.8811,
+      "probabilities": {
+        "win": 0.0146,
+        "final": 0.043,
+        "semi_final": 0.1192,
+        "quarter_final": 0.2633,
+        "round_of_16": 0.5215,
+        "round_of_32": 0.8811,
+        "group_exit": 0.1189
+      },
+      "avg_goals_scored": 4.69,
+      "avg_goals_conceded": 3.21
+    },
+    {
+      "name": "Turkey",
+      "slug": "turkey",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddf9\ud83c\uddf7",
+      "group": "D",
+      "qualify_probability": 0.95,
+      "probabilities": {
+        "win": 0.0145,
+        "final": 0.038,
+        "semi_final": 0.121,
+        "quarter_final": 0.331,
+        "round_of_16": 0.6577,
+        "round_of_32": 0.95,
+        "group_exit": 0.05
+      },
+      "avg_goals_scored": 5.24,
+      "avg_goals_conceded": 2.25
+    },
+    {
+      "name": "Norway",
+      "slug": "norway",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddf3\ud83c\uddf4",
+      "group": "I",
+      "qualify_probability": 0.8495,
+      "probabilities": {
+        "win": 0.0108,
+        "final": 0.04,
+        "semi_final": 0.0998,
+        "quarter_final": 0.211,
+        "round_of_16": 0.4954,
+        "round_of_32": 0.8495,
+        "group_exit": 0.1505
+      },
+      "avg_goals_scored": 4.37,
+      "avg_goals_conceded": 3.6
+    },
+    {
+      "name": "Uruguay",
+      "slug": "uruguay",
+      "confederation": "CONMEBOL",
+      "flag": "\ud83c\uddfa\ud83c\uddfe",
+      "group": "H",
+      "qualify_probability": 0.9576,
+      "probabilities": {
+        "win": 0.0055,
+        "final": 0.0221,
+        "semi_final": 0.083,
+        "quarter_final": 0.1894,
+        "round_of_16": 0.3805,
+        "round_of_32": 0.9576,
+        "group_exit": 0.0424
+      },
+      "avg_goals_scored": 5.59,
+      "avg_goals_conceded": 3.17
+    },
+    {
+      "name": "Senegal",
+      "slug": "senegal",
+      "confederation": "CAF",
+      "flag": "\ud83c\uddf8\ud83c\uddf3",
+      "group": "I",
+      "qualify_probability": 0.7264,
+      "probabilities": {
+        "win": 0.0029,
+        "final": 0.0166,
+        "semi_final": 0.0461,
+        "quarter_final": 0.128,
+        "round_of_16": 0.3551,
+        "round_of_32": 0.7264,
+        "group_exit": 0.2736
+      },
+      "avg_goals_scored": 3.77,
+      "avg_goals_conceded": 4.24
+    },
+    {
+      "name": "Sweden",
+      "slug": "sweden",
+      "confederation": "UEFA",
+      "flag": "\ud83c\uddf8\ud83c\uddea",
+      "group": "F",
+      "qualify_probability": 0.8366,
+      "probabilities": {
+        "win": 0.0028,
+        "final": 0.015,
+        "semi_final": 0.0398,
+        "quarter_final": 0.1209,
+        "round_of_16": 0.2482,
+        "round_of_32": 0.8366,
+        "group_exit": 0.1634
+      },
+      "avg_goals_scored": 4.41,
+      "avg_goals_conceded": 3.67
+    },
+    {
+      "name": "Colombia",
+      "slug": "colombia",
+      "confederation": "CONMEBOL",
+      "flag": "\ud83c\udde8\ud83c\uddf4",
+      "group": "K",
+      "qualify_probability": 0.7848,
+      "probabilities": {
+        "win": 0.0023,
+        "final": 0.0091,
+        "semi_final": 0.0455,
+        "quarter_final": 0.1354,
+        "round_of_16": 0.3446,
+        "round_of_32": 0.7848,
+        "group_exit": 0.2152
+      },
+      "avg_goals_scored": 4.11,
+      "avg_goals_conceded": 3.67
+    },
+    {
+      "name": "United States",
+      "slug": "united-states",
+      "confederation": "CONCACAF",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
+      "group": "D",
+      "qualify_probability": 0.9189,
+      "probabilities": {
+        "win": 0.002,
+        "final": 0.0079,
+        "semi_final": 0.0443,
+        "quarter_final": 0.1608,
+        "round_of_16": 0.4873,
+        "round_of_32": 0.9189,
+        "group_exit": 0.0811
+      },
+      "avg_goals_scored": 5.06,
+      "avg_goals_conceded": 2.89
+    },
+    {
+      "name": "Switzerland",
+      "slug": "switzerland",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udde8\ud83c\udded",
+      "group": "B",
+      "qualify_probability": 0.9345,
+      "probabilities": {
+        "win": 0.0019,
+        "final": 0.0097,
+        "semi_final": 0.0462,
+        "quarter_final": 0.2008,
+        "round_of_16": 0.5479,
+        "round_of_32": 0.9345,
+        "group_exit": 0.0655
+      },
+      "avg_goals_scored": 5.43,
+      "avg_goals_conceded": 2.55
+    },
+    {
+      "name": "Ivory Coast",
+      "slug": "ivory-coast",
+      "confederation": "CAF",
+      "flag": "\ud83c\udde8\ud83c\uddee",
+      "group": "E",
+      "qualify_probability": 0.8167,
+      "probabilities": {
+        "win": 0.0018,
+        "final": 0.0128,
+        "semi_final": 0.0417,
+        "quarter_final": 0.1063,
+        "round_of_16": 0.3793,
+        "round_of_32": 0.8167,
+        "group_exit": 0.1833
+      },
+      "avg_goals_scored": 4.21,
+      "avg_goals_conceded": 3.78
+    },
+    {
+      "name": "Czech Republic",
+      "slug": "czech-republic",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udde8\ud83c\uddff",
+      "group": "A",
+      "qualify_probability": 0.8242,
+      "probabilities": {
+        "win": 0.0017,
+        "final": 0.0071,
+        "semi_final": 0.0269,
+        "quarter_final": 0.1686,
+        "round_of_16": 0.4789,
+        "round_of_32": 0.8242,
+        "group_exit": 0.1758
+      },
+      "avg_goals_scored": 4.63,
+      "avg_goals_conceded": 3.5
+    },
+    {
+      "name": "Egypt",
+      "slug": "egypt",
+      "confederation": "CAF",
+      "flag": "\ud83c\uddea\ud83c\uddec",
+      "group": "G",
+      "qualify_probability": 0.8478,
+      "probabilities": {
+        "win": 0.0016,
+        "final": 0.0094,
+        "semi_final": 0.042,
+        "quarter_final": 0.1518,
+        "round_of_16": 0.451,
+        "round_of_32": 0.8478,
+        "group_exit": 0.1522
+      },
+      "avg_goals_scored": 4.37,
+      "avg_goals_conceded": 3.27
+    },
+    {
+      "name": "Mexico",
+      "slug": "mexico",
+      "confederation": "CONCACAF",
+      "flag": "\ud83c\uddf2\ud83c\uddfd",
+      "group": "A",
+      "qualify_probability": 0.8532,
+      "probabilities": {
+        "win": 0.0016,
+        "final": 0.0083,
+        "semi_final": 0.0295,
+        "quarter_final": 0.172,
+        "round_of_16": 0.5094,
+        "round_of_32": 0.8532,
+        "group_exit": 0.1468
+      },
+      "avg_goals_scored": 4.69,
+      "avg_goals_conceded": 3.08
+    },
+    {
+      "name": "Morocco",
+      "slug": "morocco",
+      "confederation": "CAF",
+      "flag": "\ud83c\uddf2\ud83c\udde6",
+      "group": "C",
+      "qualify_probability": 0.7732,
+      "probabilities": {
+        "win": 0.0009,
+        "final": 0.007,
+        "semi_final": 0.0254,
+        "quarter_final": 0.1049,
+        "round_of_16": 0.2264,
+        "round_of_32": 0.7732,
+        "group_exit": 0.2268
+      },
+      "avg_goals_scored": 3.96,
+      "avg_goals_conceded": 3.99
+    },
+    {
+      "name": "Algeria",
+      "slug": "algeria",
+      "confederation": "CAF",
+      "flag": "\ud83c\udde9\ud83c\uddff",
+      "group": "J",
+      "qualify_probability": 0.6116,
+      "probabilities": {
+        "win": 0.0006,
+        "final": 0.0038,
+        "semi_final": 0.0207,
+        "quarter_final": 0.0675,
+        "round_of_16": 0.1725,
+        "round_of_32": 0.6116,
+        "group_exit": 0.3884
+      },
+      "avg_goals_scored": 3.35,
+      "avg_goals_conceded": 4.46
+    },
+    {
+      "name": "Scotland",
+      "slug": "scotland",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+      "group": "C",
+      "qualify_probability": 0.6213,
+      "probabilities": {
+        "win": 0.0005,
+        "final": 0.0033,
+        "semi_final": 0.0121,
+        "quarter_final": 0.0555,
+        "round_of_16": 0.1597,
+        "round_of_32": 0.6213,
+        "group_exit": 0.3787
+      },
+      "avg_goals_scored": 3.55,
+      "avg_goals_conceded": 4.98
+    },
+    {
+      "name": "Iran",
+      "slug": "iran",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddee\ud83c\uddf7",
+      "group": "G",
+      "qualify_probability": 0.7539,
+      "probabilities": {
+        "win": 0.0003,
+        "final": 0.0017,
+        "semi_final": 0.0156,
+        "quarter_final": 0.0786,
+        "round_of_16": 0.3,
+        "round_of_32": 0.7539,
+        "group_exit": 0.2461
+      },
+      "avg_goals_scored": 4.18,
+      "avg_goals_conceded": 4.53
+    },
+    {
+      "name": "South Korea",
+      "slug": "south-korea",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "group": "A",
+      "qualify_probability": 0.6404,
+      "probabilities": {
+        "win": 0.0003,
+        "final": 0.0021,
+        "semi_final": 0.0098,
+        "quarter_final": 0.0842,
+        "round_of_16": 0.2938,
+        "round_of_32": 0.6404,
+        "group_exit": 0.3596
+      },
+      "avg_goals_scored": 3.73,
+      "avg_goals_conceded": 4.28
+    },
+    {
+      "name": "Canada",
+      "slug": "canada",
+      "confederation": "CONCACAF",
+      "flag": "\ud83c\udde8\ud83c\udde6",
+      "group": "B",
+      "qualify_probability": 0.8366,
+      "probabilities": {
+        "win": 0.0002,
+        "final": 0.0014,
+        "semi_final": 0.0102,
+        "quarter_final": 0.0926,
+        "round_of_16": 0.3308,
+        "round_of_32": 0.8366,
+        "group_exit": 0.1634
+      },
+      "avg_goals_scored": 4.75,
+      "avg_goals_conceded": 3.52
+    },
+    {
+      "name": "Ecuador",
+      "slug": "ecuador",
+      "confederation": "CONMEBOL",
+      "flag": "\ud83c\uddea\ud83c\udde8",
+      "group": "E",
+      "qualify_probability": 0.6064,
+      "probabilities": {
+        "win": 0.0002,
+        "final": 0.0021,
+        "semi_final": 0.0083,
+        "quarter_final": 0.0447,
+        "round_of_16": 0.1869,
+        "round_of_32": 0.6064,
+        "group_exit": 0.3936
+      },
+      "avg_goals_scored": 3.46,
+      "avg_goals_conceded": 5.17
+    },
+    {
+      "name": "DR Congo",
+      "slug": "dr-congo",
+      "confederation": "CAF",
+      "flag": "\ud83c\udde8\ud83c\udde9",
+      "group": "K",
+      "qualify_probability": 0.4153,
+      "probabilities": {
+        "win": 0.0001,
+        "final": 0.0008,
+        "semi_final": 0.0059,
+        "quarter_final": 0.031,
+        "round_of_16": 0.1109,
+        "round_of_32": 0.4153,
+        "group_exit": 0.5847
+      },
+      "avg_goals_scored": 2.74,
+      "avg_goals_conceded": 5.37
+    },
+    {
+      "name": "Japan",
+      "slug": "japan",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "group": "F",
+      "qualify_probability": 0.5937,
+      "probabilities": {
+        "win": 0.0001,
+        "final": 0.0014,
+        "semi_final": 0.0062,
+        "quarter_final": 0.0281,
+        "round_of_16": 0.101,
+        "round_of_32": 0.5937,
+        "group_exit": 0.4063
+      },
+      "avg_goals_scored": 3.37,
+      "avg_goals_conceded": 4.85
+    },
+    {
+      "name": "South Africa",
+      "slug": "south-africa",
+      "confederation": "CAF",
+      "flag": "\ud83c\uddff\ud83c\udde6",
+      "group": "A",
+      "qualify_probability": 0.4129,
+      "probabilities": {
+        "win": 0.0001,
+        "final": 0.0002,
+        "semi_final": 0.0021,
+        "quarter_final": 0.0216,
+        "round_of_16": 0.1212,
+        "round_of_32": 0.4129,
+        "group_exit": 0.5871
+      },
+      "avg_goals_scored": 3.01,
+      "avg_goals_conceded": 5.21
+    },
+    {
+      "name": "Australia",
+      "slug": "australia",
+      "confederation": "AFC",
+      "flag": "\ud83c\udde6\ud83c\uddfa",
+      "group": "D",
+      "qualify_probability": 0.1132,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0,
+        "semi_final": 0.0001,
+        "quarter_final": 0.0011,
+        "round_of_16": 0.0142,
+        "round_of_32": 0.1132,
+        "group_exit": 0.8868
+      },
+      "avg_goals_scored": 1.81,
+      "avg_goals_conceded": 6.91
+    },
+    {
+      "name": "Austria",
+      "slug": "austria",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udde6\ud83c\uddf9",
+      "group": "J",
+      "qualify_probability": 0.6322,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0017,
+        "semi_final": 0.012,
+        "quarter_final": 0.0528,
+        "round_of_16": 0.154,
+        "round_of_32": 0.6322,
+        "group_exit": 0.3678
+      },
+      "avg_goals_scored": 3.44,
+      "avg_goals_conceded": 4.46
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "slug": "bosnia-and-herzegovina",
+      "confederation": "UEFA",
+      "flag": "\ud83c\udde7\ud83c\udde6",
+      "group": "B",
+      "qualify_probability": 0.4792,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0002,
+        "semi_final": 0.0027,
+        "quarter_final": 0.0224,
+        "round_of_16": 0.1133,
+        "round_of_32": 0.4792,
+        "group_exit": 0.5208
+      },
+      "avg_goals_scored": 3.16,
+      "avg_goals_conceded": 4.93
+    },
+    {
+      "name": "Cape Verde",
+      "slug": "cape-verde",
+      "confederation": "CAF",
+      "flag": "\ud83c\udde8\ud83c\uddfb",
+      "group": "H",
+      "qualify_probability": 0.1026,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0,
+        "semi_final": 0.0,
+        "quarter_final": 0.0002,
+        "round_of_16": 0.0076,
+        "round_of_32": 0.1026,
+        "group_exit": 0.8974
+      },
+      "avg_goals_scored": 1.65,
+      "avg_goals_conceded": 7.32
+    },
+    {
+      "name": "Cura\u00e7ao",
+      "slug": "curacao",
+      "confederation": "CONCACAF",
+      "flag": "\ud83c\udde8\ud83c\uddfc",
+      "group": "E",
+      "qualify_probability": 0.2043,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0,
+        "semi_final": 0.0001,
+        "quarter_final": 0.0028,
+        "round_of_16": 0.0313,
+        "round_of_32": 0.2043,
+        "group_exit": 0.7957
+      },
+      "avg_goals_scored": 2.23,
+      "avg_goals_conceded": 6.42
+    },
+    {
+      "name": "Ghana",
+      "slug": "ghana",
+      "confederation": "CAF",
+      "flag": "\ud83c\uddec\ud83c\udded",
+      "group": "L",
+      "qualify_probability": 0.4804,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0007,
+        "semi_final": 0.0045,
+        "quarter_final": 0.0271,
+        "round_of_16": 0.0997,
+        "round_of_32": 0.4804,
+        "group_exit": 0.5196
+      },
+      "avg_goals_scored": 2.94,
+      "avg_goals_conceded": 5.38
+    },
+    {
+      "name": "Haiti",
+      "slug": "haiti",
+      "confederation": "CONCACAF",
+      "flag": "\ud83c\udded\ud83c\uddf9",
+      "group": "C",
+      "qualify_probability": 0.2482,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0,
+        "semi_final": 0.0007,
+        "quarter_final": 0.007,
+        "round_of_16": 0.0376,
+        "round_of_32": 0.2482,
+        "group_exit": 0.7518
+      },
+      "avg_goals_scored": 2.3,
+      "avg_goals_conceded": 6.07
+    },
+    {
+      "name": "Iraq",
+      "slug": "iraq",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddee\ud83c\uddf6",
+      "group": "I",
+      "qualify_probability": 0.1324,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0001,
+        "semi_final": 0.0007,
+        "quarter_final": 0.0033,
+        "round_of_16": 0.0228,
+        "round_of_32": 0.1324,
+        "group_exit": 0.8676
+      },
+      "avg_goals_scored": 1.78,
+      "avg_goals_conceded": 6.77
+    },
+    {
+      "name": "Jordan",
+      "slug": "jordan",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddef\ud83c\uddf4",
+      "group": "J",
+      "qualify_probability": 0.4375,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0002,
+        "semi_final": 0.004,
+        "quarter_final": 0.0229,
+        "round_of_16": 0.0863,
+        "round_of_32": 0.4375,
+        "group_exit": 0.5625
+      },
+      "avg_goals_scored": 2.86,
+      "avg_goals_conceded": 4.95
+    },
+    {
+      "name": "New Zealand",
+      "slug": "new-zealand",
+      "confederation": "OFC",
+      "flag": "\ud83c\uddf3\ud83c\uddff",
+      "group": "G",
+      "qualify_probability": 0.1416,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0,
+        "semi_final": 0.0003,
+        "quarter_final": 0.0012,
+        "round_of_16": 0.0151,
+        "round_of_32": 0.1416,
+        "group_exit": 0.8584
+      },
+      "avg_goals_scored": 1.91,
+      "avg_goals_conceded": 6.77
+    },
+    {
+      "name": "Panama",
+      "slug": "panama",
+      "confederation": "CONCACAF",
+      "flag": "\ud83c\uddf5\ud83c\udde6",
+      "group": "L",
+      "qualify_probability": 0.2921,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0001,
+        "semi_final": 0.0029,
+        "quarter_final": 0.014,
+        "round_of_16": 0.0585,
+        "round_of_32": 0.2921,
+        "group_exit": 0.7079
+      },
+      "avg_goals_scored": 2.44,
+      "avg_goals_conceded": 5.83
+    },
+    {
+      "name": "Paraguay",
+      "slug": "paraguay",
+      "confederation": "CONMEBOL",
+      "flag": "\ud83c\uddf5\ud83c\uddfe",
+      "group": "D",
+      "qualify_probability": 0.7692,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0012,
+        "semi_final": 0.0077,
+        "quarter_final": 0.0386,
+        "round_of_16": 0.2047,
+        "round_of_32": 0.7692,
+        "group_exit": 0.2308
+      },
+      "avg_goals_scored": 4.29,
+      "avg_goals_conceded": 4.35
+    },
+    {
+      "name": "Qatar",
+      "slug": "qatar",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddf6\ud83c\udde6",
+      "group": "B",
+      "qualify_probability": 0.4509,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0001,
+        "semi_final": 0.0025,
+        "quarter_final": 0.0214,
+        "round_of_16": 0.0972,
+        "round_of_32": 0.4509,
+        "group_exit": 0.5491
+      },
+      "avg_goals_scored": 3.21,
+      "avg_goals_conceded": 5.54
+    },
+    {
+      "name": "Saudi Arabia",
+      "slug": "saudi-arabia",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddf8\ud83c\udde6",
+      "group": "H",
+      "qualify_probability": 0.5395,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0001,
+        "semi_final": 0.001,
+        "quarter_final": 0.0084,
+        "round_of_16": 0.063,
+        "round_of_32": 0.5395,
+        "group_exit": 0.4605
+      },
+      "avg_goals_scored": 3.34,
+      "avg_goals_conceded": 5.95
+    },
+    {
+      "name": "Tunisia",
+      "slug": "tunisia",
+      "confederation": "CAF",
+      "flag": "\ud83c\uddf9\ud83c\uddf3",
+      "group": "F",
+      "qualify_probability": 0.229,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0,
+        "semi_final": 0.0009,
+        "quarter_final": 0.0046,
+        "round_of_16": 0.0258,
+        "round_of_32": 0.229,
+        "group_exit": 0.771
+      },
+      "avg_goals_scored": 2.21,
+      "avg_goals_conceded": 6.17
+    },
+    {
+      "name": "Uzbekistan",
+      "slug": "uzbekistan",
+      "confederation": "AFC",
+      "flag": "\ud83c\uddfa\ud83c\uddff",
+      "group": "K",
+      "qualify_probability": 0.4395,
+      "probabilities": {
+        "win": 0.0,
+        "final": 0.0013,
+        "semi_final": 0.0075,
+        "quarter_final": 0.0312,
+        "round_of_16": 0.1156,
+        "round_of_32": 0.4395,
+        "group_exit": 0.5605
+      },
+      "avg_goals_scored": 2.87,
+      "avg_goals_conceded": 5.35
+    }
+  ],
+  "bracket": {
+    "round_of_32": [
+      {
+        "team_a": "Czech Republic",
+        "team_b": "Qatar",
+        "predicted_winner": "Czech Republic",
+        "win_probability": 0.7594
+      },
+      {
+        "team_a": "Germany",
+        "team_b": "Paraguay",
+        "predicted_winner": "Germany",
+        "win_probability": 0.8836
+      },
+      {
+        "team_a": "Netherlands",
+        "team_b": "Morocco",
+        "predicted_winner": "Netherlands",
+        "win_probability": 0.8011
+      },
+      {
+        "team_a": "Brazil",
+        "team_b": "Sweden",
+        "predicted_winner": "Brazil",
+        "win_probability": 0.7981
+      },
+      {
+        "team_a": "France",
+        "team_b": "Egypt",
+        "predicted_winner": "France",
+        "win_probability": 0.8462
+      },
+      {
+        "team_a": "Ecuador",
+        "team_b": "Norway",
+        "predicted_winner": "Norway",
+        "win_probability": 0.7025
+      },
+      {
+        "team_a": "Mexico",
+        "team_b": "Uruguay",
+        "predicted_winner": "Uruguay",
+        "win_probability": 0.5684
+      },
+      {
+        "team_a": "Croatia",
+        "team_b": "Senegal",
+        "predicted_winner": "Croatia",
+        "win_probability": 0.6623
+      },
+      {
+        "team_a": "Turkey",
+        "team_b": "Canada",
+        "predicted_winner": "Turkey",
+        "win_probability": 0.739
+      },
+      {
+        "team_a": "Belgium",
+        "team_b": "South Korea",
+        "predicted_winner": "Belgium",
+        "win_probability": 0.8464
+      },
+      {
+        "team_a": "Colombia",
+        "team_b": "Ghana",
+        "predicted_winner": "Colombia",
+        "win_probability": 0.7026
+      },
+      {
+        "team_a": "Saudi Arabia",
+        "team_b": "Algeria",
+        "predicted_winner": "Algeria",
+        "win_probability": 0.7382
+      },
+      {
+        "team_a": "Switzerland",
+        "team_b": "Argentina",
+        "predicted_winner": "Argentina",
+        "win_probability": 0.6958
+      },
+      {
+        "team_a": "Austria",
+        "team_b": "Spain",
+        "predicted_winner": "Spain",
+        "win_probability": 0.7867
+      },
+      {
+        "team_a": "Portugal",
+        "team_b": "England",
+        "predicted_winner": "Portugal",
+        "win_probability": 0.5289
+      },
+      {
+        "team_a": "United States",
+        "team_b": "Iran",
+        "predicted_winner": "United States",
+        "win_probability": 0.6473
+      }
+    ],
+    "round_of_16": [
+      {
+        "team_a": "Germany",
+        "team_b": "France",
+        "predicted_winner": "France",
+        "win_probability": 0.5223
+      },
+      {
+        "team_a": "Czech Republic",
+        "team_b": "Netherlands",
+        "predicted_winner": "Netherlands",
+        "win_probability": 0.7305
+      },
+      {
+        "team_a": "Brazil",
+        "team_b": "Norway",
+        "predicted_winner": "Brazil",
+        "win_probability": 0.6804
+      },
+      {
+        "team_a": "Uruguay",
+        "team_b": "Croatia",
+        "predicted_winner": "Croatia",
+        "win_probability": 0.5414
+      },
+      {
+        "team_a": "Colombia",
+        "team_b": "Algeria",
+        "predicted_winner": "Colombia",
+        "win_probability": 0.6125
+      },
+      {
+        "team_a": "Turkey",
+        "team_b": "Belgium",
+        "predicted_winner": "Belgium",
+        "win_probability": 0.5511
+      },
+      {
+        "team_a": "Spain",
+        "team_b": "United States",
+        "predicted_winner": "Spain",
+        "win_probability": 0.857
+      },
+      {
+        "team_a": "Argentina",
+        "team_b": "Portugal",
+        "predicted_winner": "Argentina",
+        "win_probability": 0.5062
+      }
+    ],
+    "quarter_finals": [
+      {
+        "team_a": "France",
+        "team_b": "Netherlands",
+        "predicted_winner": "France",
+        "win_probability": 0.6506
+      },
+      {
+        "team_a": "Colombia",
+        "team_b": "Belgium",
+        "predicted_winner": "Belgium",
+        "win_probability": 0.6228
+      },
+      {
+        "team_a": "Brazil",
+        "team_b": "Croatia",
+        "predicted_winner": "Brazil",
+        "win_probability": 0.716
+      },
+      {
+        "team_a": "Spain",
+        "team_b": "Argentina",
+        "predicted_winner": "Spain",
+        "win_probability": 0.6401
+      }
+    ],
+    "semi_finals": [
+      {
+        "team_a": "France",
+        "team_b": "Belgium",
+        "predicted_winner": "France",
+        "win_probability": 0.7186
+      },
+      {
+        "team_a": "Brazil",
+        "team_b": "Spain",
+        "predicted_winner": "Spain",
+        "win_probability": 0.5441
+      }
+    ],
+    "final": {
+      "team_a": "France",
+      "team_b": "Spain",
+      "predicted_winner": "France",
+      "win_probability": 0.5114
+    },
+    "winner": "France"
+  }
+}
