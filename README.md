@@ -1,6 +1,6 @@
 # WC 2026 Simulator Engine
 
-A data pipeline and Monte Carlo simulator for the 2026 FIFA World Cup. Runs 10,000 complete tournament simulations and outputs probability distributions for all 48 teams, connected to a Next.js frontend via a single JSON file.
+Data pipeline and Monte Carlo simulator for the 2026 FIFA World Cup. Runs 10,000 complete tournament simulations and outputs probability distributions for all 48 teams, connected to a Next.js frontend via a single JSON file.
 
 ---
 
@@ -22,7 +22,7 @@ The starting point was assembling several sources:
 - **Understat** — player xG and xA from the current club season, covering EPL, La Liga, Bundesliga, Serie A, Ligue 1, and Russian Premier League. This is the "current form" signal.
 - **StatsBomb Open Data** — shot-level match data for WC 2018, WC 2022, Euro 2020/2024, Copa America 2024, AFCON 2023. Used for validation, not training.
 
-Two sources that were originally planned didn't work out: FBref blocks scraping behind Cloudflare, and Sofascore moved to Chromium fingerprinting. Understat was used as the replacement for FBref. It doesn't cover non-EU leagues, so players at Saudi, Brazilian, Turkish, and other clubs outside the six covered leagues have no form data — they fall back to FC26 ratings only.
+ Understat doesn't cover non-EU leagues, so players at Saudi, Brazilian, Turkish, and other clubs outside the six covered leagues have no form data — they fall back to FC26 ratings only.
 
 ---
 
@@ -175,15 +175,6 @@ pip install -r requirements.txt
 ```
 
 To regenerate from scratch, run the scripts in order, then the notebooks (03 → 04 → 05 → 06).
-
----
-
-## Known Limitations
-
-- **53.1% winner accuracy** — the gap to betting-market models (~58%) is real. Those models have injury data, tactical signals, and squad selection — this one has Elo and FC26 ratings.
-- **EU form data only** — 807 of 1,248 players have no Understat coverage. Teams like Saudi Arabia, Iran, New Zealand, and South Africa are predicted almost entirely from FC26 ratings. The model is less confident about them, which is honest.
-- **17/48 teams have xG features** — below the 40% attacker coverage threshold, xG/xA are null and the model falls back to FC26-only for that team.
-- **203 players on positional fill** — EA licensing exclusions plus obscure players. Neymar, Courtois, Lukaku all fall into this group.
 
 ---
 
